@@ -1,3 +1,3 @@
 class Robot
-  def orient; end
+  def orient(x); end
 end
